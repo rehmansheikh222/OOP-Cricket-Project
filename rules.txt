@@ -1,0 +1,25 @@
+               			   	  *****RULES OF THE GAME********
+
+	-> Cricket is played between two teams each made up of eleven players.
+	-> The fielding team will have a bowler bowl the ball to the batsman who tries to hit the ball with their bat.
+	-> The fielding team tries to get the batsmen out 
+	-> Hitting the wickets with the ball when bowling
+	-> Catching a batsman shot on the full
+	-> Hitting the batsman leg in front of the wicket (LBW)
+	-> The batsmen try to score as many runs as possible before getting out 
+	-> The delivery is considered as no ball when the length of the ball is less than 66 feet.
+	-> The range for the length of the ball is 64-70 feet.
+	-> The delivery is considered as wide ball when the width of the ball is greater than 3 feet.
+	-> The range for the width of the ball is 0-5 feet.
+	-> The delivery is considered as a bouncer when the height of the ball is greater or equal to 4 feet.
+	-> The range for the height of the ball is 0-7 feet.
+	-> The delivery is considered as a spin when the angle of deviation is either less than -5 or greater than 5.
+	-> The range for the angle of deviation if -8 - 8.
+	-> In the case of wide ball, if the batsman strikes the ball, the ball is counted as a fair delivery.
+	-> If the batsman does not strike the wide, one run is given to the bating team and the ball does not count.
+	-> In the case of no ball, the ball does not count and the batting team gets one run.
+	-> If the bowler gets a wicket on a no ball, it does not count and the batsman continues to play.
+	-> First Innings gets completed either when the overs are completed or when the batting is all out.
+	-> The aim of the game is to score as many runs as possible before the fielding team takes 10 wickets.
+	    The team with the most runs wins.
+

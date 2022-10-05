@@ -1,0 +1,85 @@
+PAKISTAN                                
+1    Babar Azam                         
+2    Rizwan Ali                         
+3    Muhammad Hafeez                    
+4    Fakhar Zaman                       
+5    Haider Ali                         
+6    Mohammad Nawaz                     
+7    Mohammad Wasim                     
+8    Shadab Khan                        
+9    Imad Wasim                         
+10   Shoaib Malik                       
+11   Shaheen Afrid                      
+12   Hasan Ali                          
+13   Muhammad Hasnain                   
+14   Haris Rauf                         
+15   Sarfaraz Ahmed                     
+16   Azam                               
+AUSTRALIA                               
+1    Adam Zampa                         
+2    Aaron Finch                        
+3    Steven Smith                       
+4    David Warner                       
+5    Josh Inglis                        
+6    Matthew Wade                       
+7    Ashton Agar                        
+8    Mitchell Marsh                     
+9    Glenn Maxwell                      
+10   Marcus Stoinis                     
+11   Dan Christian                      
+12   Daniel Sams                        
+13   Pat Cummins                        
+14   Josh Hazlewood                     
+15   Kane Richardson                    
+16   Mitchell Starc                     
+NEWZEALAND                              
+1    Kane Williamson                    
+2    Mark Chapman                       
+3    Martin Guptill                     
+4    Devon Conway                       
+5    Glenn Phillips                     
+6    Tim Seifert                        
+7    Todd Astle                         
+8    Daryl Mitchell                     
+9    James Neesham                      
+10   Mitchell Santner                   
+11   Tim Southee                        
+12   Trent Boult                        
+13   Lockie Ferguson                    
+14   Kyle Jamieson                      
+15   Kane Richardson                    
+16   Ish Sodhi                          
+ZIMBABWE                                
+1    Ryan Burl                          
+2    Chakabva, RW                       
+3    Ervine, CR                         
+4    Chatara, TL                        
+5    Kaia, I                            
+6    Kamunhukamwe, TS                   
+7    Madhevere, W                       
+8    Musakanda, TK                      
+9    Mutumbami, R                       
+10   Muzarabani, B                      
+11   Myers, D                           
+12   Nkomo, JN                          
+13   Sikandar Raza                      
+14   Williams, SC                       
+15   Brendan Taylor                     
+16   Ish Sodhi                          
+SRILANKA                                
+1    Avishka Fernando                   
+2    Bhanuka Rajapaksa                  
+3    Pathum Nissanka                    
+4    Dinesh Chandimal                   
+5    Kusal Perera                       
+6    Dasun Shanaka, TS                  
+7    Dhananjaya de Silva                
+8    Charith Asalanka                   
+9    Wanindu Hasaranga                  
+10   Dushmantha Chameera                
+11   Chamika Karunaratne                
+12   Maheesh Theekshana                 
+13   Akila Dananjaya                    
+14   Akila Dananjaya                    
+15   Lahiru Kumara                      
+16   Malanga                            
